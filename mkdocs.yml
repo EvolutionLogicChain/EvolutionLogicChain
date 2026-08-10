@@ -21,6 +21,9 @@ markdown_extensions:
 plugins:
   - search
 
+extra_javascript:
+  - extra.js
+
 nav:
   - Home: README.md
   - Core Concepts: 01-Core-Concepts/README.md
@@ -29,3 +32,11 @@ nav:
   - Intelligence Evolution: 04-Intelligence-Evolution/README.md
   - Civilization Evolution: 05-Civilization-Evolution/README.md
   - Artificial Intelligence Evolution: 06-Artificial-Intelligence-Evolution/README.md
+  - 中文:
+    - 首页: README_cn.md
+    - 核心概念: 01-Core-Concepts/README_cn.md
+    - 宇宙演化: 02-Universe-Evolution/README_cn.md
+    - 生命演化: 03-Life-Evolution/README_cn.md
+    - 智能演化: 04-Intelligence-Evolution/README_cn.md
+    - 文明演化: 05-Civilization-Evolution/README_cn.md
+    - 人工智能演化: 06-Artificial-Intelligence-Evolution/README_cn.md
