@@ -1,151 +1,151 @@
-# 前言
+# Foreword
 
-这个世界充满了变化。
+The world is full of change.
 
-从浩瀚宇宙中的星辰运行，到微观世界中的粒子运动；从无生命的物质，到复杂的生命系统；从生命产生智能，到文明不断发展。
+From the movement of stars in the vast universe, to the motion of particles in the microscopic world; from non-living matter, to complex life systems; from life giving rise to intelligence, to the ongoing development of civilization.
 
-世界呈现出无比丰富的形态。
+The world presents an incredibly rich variety of forms.
 
-然而，在这些变化背后，是否存在某些共同的规律？
+Yet, behind all these changes, are there certain common principles?
 
-能量如何形成物质？
+How does energy form matter?
 
-物质如何形成复杂结构？
+How does matter form complex structures?
 
-无生命的世界，为什么会出现生命？
+Why does life emerge from a non-living world?
 
-生命如何产生智能？
+How does life produce intelligence?
 
-智能又如何推动文明的发展？
+And how does intelligence drive the development of civilization?
 
-这些问题，一直伴随着人类对世界的探索。
-
----
-
-人类已经在不同领域建立了大量知识。
-
-物理学探索宇宙和物质的基本规律。
-
-化学研究物质之间的组合与变化。
-
-生命科学研究生命的起源与发展。
-
-神经科学探索智能形成的机制。
-
-社会科学研究文明的发展过程。
-
-这些知识像一块块拼图，让我们逐渐认识这个世界。
-
-但是，当我们把这些知识放在更长的时间尺度上观察，会发现一个重要的问题：
-
-不同领域之间，是否存在隐藏的连接？
-
-如果今天的结构来自过去的变化，那么从过去到现在之间，是否存在一条可以追踪的路径？
+These questions have accompanied humanity's exploration of the world.
 
 ---
 
-为了寻找这种连接，我们需要一种新的观察方式。
+Humanity has already accumulated vast knowledge across many fields.
 
-不只是观察事物是什么，也观察它如何形成。
+Physics explores the fundamental laws of the universe and matter.
 
-不只是研究孤立的对象，也研究对象之间如何连接。
+Chemistry studies the combinations and transformations between substances.
 
-这种连接关系，可以被描述为一条演化曲线。
+Life science investigates the origin and development of life.
 
-一条演化曲线，记录一个系统从一种状态走向另一种状态的变化过程。
+Neuroscience explores the mechanisms of intelligence formation.
 
-曲线上的关键变化点，是演化过程中的逻辑节点。
+Social science studies the development of civilization.
 
-多个逻辑节点连接起来，形成演化逻辑链。
+These bodies of knowledge are like puzzle pieces, helping us gradually understand the world.
 
-无数条演化逻辑链相互连接，最终形成一张描述世界变化的演化逻辑链地图。
+But when we observe this knowledge on a longer time scale, an important question emerges:
 
----
+Are there hidden connections between different fields?
 
-构建这样一张地图，并不是一件容易的事情。
-
-绘制地理地图，需要人类不断探索未知区域，测量山川、河流、道路的位置，逐渐建立对地球空间关系的认识。
-
-地图的意义，不只是记录地点。
-
-它让人类知道自己在哪里，知道不同地方如何连接，也让人类能够探索未知区域。
-
-演化逻辑链地图也是如此。
-
-它不是简单记录已经发现的知识，而是尝试寻找不同结构、不同阶段之间的连接关系。
-
-它希望回答：
-
-一个结构如何形成？
-
-一个阶段如何连接到另一个阶段？
-
-不同领域之间，是否存在可以追踪的演化路径？
+If today's structures come from past changes, is there a traceable path from the past to the present?
 
 ---
 
-但是，认识一条演化曲线已经十分困难。
+To find such connections, we need a new way of observing.
 
-从能量到物质，从物质到生命，从生命到智能，每一个阶段都包含大量未知的问题。
+Not just observing what things are, but also how they formed.
 
-而将无数条演化曲线连接起来，形成一张完整的演化逻辑链地图，更是一项长期的探索。
+Not just studying isolated objects, but also how objects connect to one another.
 
-因此，这张地图不会由一个人完成。
+This connection can be described as an evolution curve.
 
----
+An evolution curve records the process by which a system moves from one state to another.
 
-人类绘制地理地图，经历了漫长的过程。
+The key turning points on the curve are logical nodes in the evolution process.
 
-无数探索者走向不同区域，记录不同发现，最终共同绘制出今天的世界地图。
+Multiple logical nodes connected together form an evolution logic chain.
 
-这张地图属于全人类。
-
-演化逻辑链地图也需要这样的过程。
-
-它需要不同领域的人共同参与。
-
-物理学家探索宇宙和物质的演化；
-
-生命科学家探索生命的发展；
-
-人工智能研究者探索智能的新方向；
-
-每一个领域的探索，都可能发现新的节点。
-
-每一个被验证的联系，都可能形成新的演化曲线。
+Countless evolution logic chains interconnected ultimately form an evolution logic chain map that describes the world's changes.
 
 ---
 
-我们希望构建一张开放的演化逻辑链地图。
+Building such a map is not an easy task.
 
-它不是一个已经完成的答案，而是一张不断绘制、不断完善的地图。
+Drawing a geographic map requires humans to continuously explore unknown regions, measure the positions of mountains, rivers, and roads, and gradually build an understanding of Earth's spatial relationships.
 
-任何人都可以参与其中。
+The significance of a map is not just to record locations.
 
-你可以从自己熟悉的领域出发：
+It lets humanity know where they are, how different places connect, and enables the exploration of unknown regions.
 
-发现一个新的节点；
+The evolution logic chain map is the same.
 
-完善一条已有的曲线；
+It does not simply record knowledge that has already been discovered. Instead, it attempts to find the connective relationships between different structures and different stages.
 
-连接不同的知识区域；
+It seeks to answer:
 
-探索未知的演化路径。
+How does a structure form?
 
-每一个新的发现，都会成为地图上的一部分。
+How does one stage connect to another?
 
-每一次新的连接，都会让这张地图更加完整。
+Between different fields, are there traceable evolution paths?
 
 ---
 
-过去，人类绘制地理地图，是为了认识世界的空间。
+However, understanding a single evolution curve is already extremely difficult.
 
-未来，人类也许需要绘制演化逻辑链地图，去认识世界变化的过程。
+From energy to matter, from matter to life, from life to intelligence -- every stage contains numerous unanswered questions.
 
-这是一张属于全人类的探索地图。
+And connecting countless evolution curves together to form a complete evolution logic chain map is a long-term endeavor.
 
-它从已知开始，通向未知。
+Therefore, this map will not be completed by one person.
 
-它记录的不只是世界是什么，
+---
 
-更是世界如何一步步形成。
+Drawing geographic maps was a process that took humanity a long time.
+
+Countless explorers journeyed to different regions, recorded different discoveries, and eventually, together, drew the world map we have today.
+
+This map belongs to all of humanity.
+
+The evolution logic chain map also requires such a process.
+
+It needs the participation of people from different fields.
+
+Physicists explore the evolution of the universe and matter;
+
+Life scientists explore the development of life;
+
+Artificial intelligence researchers explore new directions of intelligence;
+
+Every field's exploration may discover new nodes.
+
+Every verified connection may form a new evolution curve.
+
+---
+
+We hope to build an open evolution logic chain map.
+
+It is not a finished answer, but a map that is continuously drawn and refined.
+
+Anyone can participate in it.
+
+You can start from the field you are familiar with:
+
+Discover a new node;
+
+Refine an existing curve;
+
+Connect different knowledge regions;
+
+Explore unknown evolution paths.
+
+Every new discovery will become part of the map.
+
+Every new connection will make the map more complete.
+
+---
+
+In the past, humanity drew geographic maps to understand the world's space.
+
+In the future, humanity may need to draw an evolution logic chain map to understand the world's processes of change.
+
+This is an exploration map that belongs to all of humanity.
+
+It starts from the known and leads to the unknown.
+
+It records not just what the world is,
+
+but also how the world came to be, step by step.

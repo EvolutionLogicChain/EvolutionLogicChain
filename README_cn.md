@@ -8,7 +8,7 @@
 
 ## 前言
 
-- [前言](./Foreword.md)
+- [前言](./Foreword_cn.md)
 
 ## 演化领域
 
