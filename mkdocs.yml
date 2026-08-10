@@ -1,0 +1,31 @@
+site_name: Evolution Logic Chain Encyclopedia
+docs_dir: '.'
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+  language: en
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+nav:
+  - Home: README.md
+  - Core Concepts: 01-Core-Concepts/README.md
+  - Universe Evolution: 02-Universe-Evolution/README.md
+  - Life Evolution: 03-Life-Evolution/README.md
+  - Intelligence Evolution: 04-Intelligence-Evolution/README.md
+  - Civilization Evolution: 05-Civilization-Evolution/README.md
+  - Artificial Intelligence Evolution: 06-Artificial-Intelligence-Evolution/README.md
