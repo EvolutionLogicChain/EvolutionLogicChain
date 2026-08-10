@@ -1,8 +1,8 @@
-﻿# 智能演化
+﻿[← 首页](../README_cn.md) | [English](README.md)
+
+# 智能演化
 
 智能演化描述了信息处理系统的发展。
-
-[English](./README.md)
 
 ## 主要路径
 

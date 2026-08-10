@@ -1,8 +1,8 @@
-﻿# 生命演化
+﻿[← 首页](../README_cn.md) | [English](README.md)
+
+# 生命演化
 
 生命演化描述了从化学系统到生物系统的转变。
-
-[English](./README.md)
 
 ## 主要路径
 

@@ -1,8 +1,8 @@
-﻿# 人工智能演化
+﻿[← 首页](../README_cn.md) | [English](README.md)
+
+# 人工智能演化
 
 人工智能演化描述了非生物智能系统的发展。
-
-[English](./README.md)
 
 ## 主要路径
 

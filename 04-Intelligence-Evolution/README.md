@@ -1,4 +1,6 @@
-﻿# Intelligence Evolution
+﻿[← Home](../README.md) | [中文](README_cn.md)
+
+# Intelligence Evolution
 
 Intelligence evolution describes the development of information processing systems.
 

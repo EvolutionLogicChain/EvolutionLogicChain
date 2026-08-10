@@ -1,8 +1,8 @@
-﻿# 宇宙演化
+﻿[← 首页](../README_cn.md) | [English](README.md)
+
+# 宇宙演化
 
 宇宙演化描述了物理结构的发展。
-
-[English](./README.md)
 
 ## 主要路径
 

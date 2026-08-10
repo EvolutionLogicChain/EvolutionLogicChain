@@ -1,4 +1,6 @@
-﻿# Core Concepts
+﻿[← Home](../README.md) | [中文](README_cn.md)
+
+# Core Concepts
 
 Core concepts define the basic language used by Evolution Logic Chain.
 

@@ -1,8 +1,8 @@
-﻿# 核心概念
+﻿[← 首页](../README_cn.md) | [English](README.md)
+
+# 核心概念
 
 核心概念定义了演化逻辑链使用的基本语言。
-
-[English](./README.md)
 
 ## 演化
 

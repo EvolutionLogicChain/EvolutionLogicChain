@@ -6,6 +6,7 @@ theme:
   features:
     - navigation.sections
     - navigation.expand
+    - navigation.breadcrumbs
     - search.suggest
     - search.highlight
   language: en

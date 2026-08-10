@@ -1,4 +1,6 @@
-﻿# Artificial Intelligence Evolution
+﻿[← Home](../README.md) | [中文](README_cn.md)
+
+# Artificial Intelligence Evolution
 
 Artificial intelligence evolution describes the development of non-biological intelligence systems.
 

@@ -1,4 +1,6 @@
-﻿# Civilization Evolution
+﻿[← Home](../README.md) | [中文](README_cn.md)
+
+# Civilization Evolution
 
 Civilization evolution describes the development of collective intelligent systems.
 

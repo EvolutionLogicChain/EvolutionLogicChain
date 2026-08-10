@@ -1,8 +1,8 @@
-﻿# 文明演化
+﻿[← 首页](../README_cn.md) | [English](README.md)
+
+# 文明演化
 
 文明演化描述了集体智能系统的发展。
-
-[English](./README.md)
 
 ## 主要路径
 
