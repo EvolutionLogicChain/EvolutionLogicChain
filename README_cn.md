@@ -6,6 +6,10 @@
 
 [English](./README.md)
 
+## 前言
+
+- [前言](./Foreword.md)
+
 ## 演化领域
 
 - [核心概念](./01-Core-Concepts/README_cn.md)

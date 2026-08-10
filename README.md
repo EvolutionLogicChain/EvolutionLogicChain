@@ -4,6 +4,10 @@ Evolution Logic Chain Encyclopedia is an open knowledge system built with Markdo
 
 The encyclopedia describes the development and connection of different systems through evolution domains and logical nodes.
 
+## Foreword
+
+- [Foreword](./Foreword.md)
+
 ## Evolution Domains
 
 - [Core Concepts](./01-Core-Concepts/README.md)
